@@ -1,6 +1,6 @@
-                                          --Portfolio Project--
-								           --Covid 19 Project--
-								          --SQL DATA Exploration-- 
+                                                                                             --Portfolio Project--
+								                             --Covid 19 Project--
+								                            --SQL DATA Exploration-- 
 
 
 SELECT * FROM CovidDeaths;
