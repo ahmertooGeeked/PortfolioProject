@@ -1,5 +1,5 @@
-                                                    --DATA CLEANING PROJECT--
-													  --NASHVILLE HOUSING--
+                                                                                  --DATA CLEANING PROJECT--
+				                                                    --NASHVILLE HOUSING--
 
 USE PortfolioProjects;
 -----------------------------------------
